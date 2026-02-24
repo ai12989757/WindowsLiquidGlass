@@ -18,9 +18,7 @@
 ## 效果预览
 
 <div align="center">
-  <img src="images/WindowsLiquidGlass.png" alt="液态玻璃效果" width="80%"/>
-  <br/><br/>
-  <img src="images/SettingUI.png" alt="设置界面" width="80%"/>
+  <img src="https://i.imgur.com/fqTrV4R.gif" alt="液态玻璃效果" width="100%"/>
 </div>
 
 ---
