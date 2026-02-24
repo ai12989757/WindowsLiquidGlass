@@ -18,7 +18,7 @@
 ## 效果预览
 
 <div align="center">
-  <img src="https://i.imgur.com/fqTrV4R.gif" alt="液态玻璃效果" width="100%"/>
+  <img src="WLG.gif" alt="液态玻璃效果" width="100%"/>
 </div>
 
 ---
